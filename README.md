@@ -1,6 +1,6 @@
 # DigitAlert 
 
-DigitAlert is an AI-powered whistleblowing and cybercrime reporting system designed to help organizations report, classify, and manage incidents faster and more efficiently.
+DigitAlert is a whistleblowing and cybercrime reporting system designed to help organizations report, classify, and manage incidents faster and more efficiently.
 
 ## Features
 - Voice report submission with Speech-to-Text  
