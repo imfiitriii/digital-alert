@@ -1,16 +1,22 @@
-# digit_alert
+# DigitAlert 🚨
 
-A new Flutter project.
+DigitAlert is an AI-powered whistleblowing and cybercrime reporting system designed to help organizations report, classify, and manage incidents faster and more efficiently.
 
-## Getting Started
+## ✨ Features
+- 🎙️ Voice report submission with Speech-to-Text  
+- 🤖 AI classification based on severity and priority  
+- 📊 Real-time admin dashboard for monitoring cases  
+- 🔒 Secure and confidential reporting channel  
+- 📑 Automated report generation  
 
-This project is a starting point for a Flutter application.
+## ⚙️ How It Works
+1. User signs in  
+2. Submit report via voice/audio  
+3. Data stored in database  
+4. Admin team monitors dashboard and takes action  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies
+- Speech-to-Text  
+- Database System  
+- Dashboard Analytics  
+- Mobile Application Interface  
